@@ -45,3 +45,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 PRODUCT_BUILD_PROP_OVERRIDES += \
     RisingChipset="Dimensity 8100" \
     RisingMaintainer="kde-yyds"
+
+TARGET_DEFAULT_PIXEL_LAUNCHER := false
